@@ -56,6 +56,11 @@ body {
     border-radius: 40px 40px 0 0;
 }
 
+.ativo{
+    border-color: var(--botao-ativo);
+    border-bottom:  4px solid var(--verde);
+}
+
 .botoes {
     display: block;
 }
