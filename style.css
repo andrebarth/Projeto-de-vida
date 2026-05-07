@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background: url("img/papel-de-parede-non-woven-galaxia1-1a18d200a70437d43616777640778329-1024-1024.webp");
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
